@@ -6,4 +6,4 @@ I don't claim to be a pioneer in this area, or to have invented it.  The idea hi
 
 So I thought, how can I undermine an attacker in the reconnaissance phase?  If an attacker gets false/misleading data early on, logic suggests this would taint the entire attack process, rendering an attack much less effective.  
 
-Open an issue for ideas, suggestions, etc.  I'm happy to give credit! :)
+Open an issue for ideas, suggestions, etc.  I'm happy to give credit! :)  I'll be posting stuff in the issues area, or in the main active defense repo...depends on fit
