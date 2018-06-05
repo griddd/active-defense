@@ -1,0 +1,5 @@
+Nmap has a script ssl-cert-intaddr which looks for any internal IP addresses in a certificate.  Would it be worthwhile to plant a false
+internal IP when creating your cert?
+
+What about throwing a few hashes (MD5, SHA1, SHA256) in the HTML source of a webpage?  Throw off an attacker by getting him sidetracked
+on hash cracking.  For example, "admin hash 7ec4026cf519fc67734911926453e816a3801fcd02d571bf452981457d5f81d9"

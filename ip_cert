@@ -1,2 +1,0 @@
-Nmap has a script ssl-cert-intaddr which looks for any internal IP addresses in a certificate.  Would it be worthwhile to plant a false
-internal IP when creating your cert?
