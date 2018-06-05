@@ -1,0 +1,3 @@
+What if I included a deliberately vulnerable component in my code, but didn't use it?  Perhaps an older version of jQuery?  I want 
+something that will trigger a scanner alert.  Anything in Retire.js would do.  As an attacker, this would certainly get my attention!  
+Must take care doing this, so as not to get hacked.
