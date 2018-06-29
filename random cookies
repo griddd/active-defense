@@ -1,3 +1,4 @@
 Since I deal mostly with .NET, been exploring the idea of using the random class to generate strings of varying sizes.  These could be used
-in hidden fields within an aspx page, to mislead attackers.  This would also stifle fuzzing attempts.  As an attacker, if I have widely 
-varying HTTP response sizes, how do I know which payload caused the result?  Could I fuzz accurately?  
+in hidden fields within an aspx page, to mislead attackers.  This would also stifle fuzzing attempts.  
+
+As an attacker, if I have widely varying HTTP response sizes, how do I know which payload caused the result?  Could I fuzz accurately?  
