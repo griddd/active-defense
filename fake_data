@@ -5,3 +5,6 @@ What about throwing a few hashes (MD5, SHA1, SHA256) in the HTML source of a web
 on hash cracking.  For example, "admin hash 7ec4026cf519fc67734911926453e816a3801fcd02d571bf452981457d5f81d9"
 
 Fake metadata in PDFs, or other downloadable files?
+
+Use BurpSuite against itself.  For example, the Intruder option Grep-Match looks for certain strings within HTTP responses.  Take those
+strings and return a random one in a hidden field...like so "Illegal operation when running stored procedure".
